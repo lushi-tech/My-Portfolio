@@ -710,6 +710,12 @@ h3.my-profesion
 .portofolio .description p {
     color: var(--text-black-700);
 }
+.portofolio .portofolio-item a
+{
+    color: #151515;
+    margin: 30px;
+    margin-right: 200px;
+}
 
 
 /* Contact */
