@@ -1,0 +1,16 @@
+You have received a message from your contact form:
+
+Name: 
+Email: belushi22@beder.edu.al
+Subject: technology
+
+Message:
+Hello there, this is a test.
+You have received a message from your contact form:
+
+Name: 
+Email: belushi22@beder.edu.al
+Subject: test
+
+Message:
+Another test
