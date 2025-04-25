@@ -21,7 +21,7 @@ function setActiveStyle(color)
         }
         else
         {
-            style.setAttribute("diabled","true");
+            style.setAttribute("disabled","true");
         }
     })
 }

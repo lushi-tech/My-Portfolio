@@ -662,6 +662,12 @@ h3.my-profesion
     line-height: 25px;
 }
 /* Portofolio*/
+.portofolio-img img {
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+}
+
 .portofolio .container
 {
    padding-bottom: 40px;   
@@ -715,6 +721,7 @@ h3.my-profesion
     color: #151515;
     margin: 30px;
     margin-right: 200px;
+    color: var(--text-black-700);
 }
 
 
@@ -757,7 +764,7 @@ h3.my-profesion
     text-transform: capitalize;
     margin: 15px 0 5px;
 }
-.contact .contact-info-item p a
+.contact .contact-info-item p
 {
     font-size: 16px;
     line-height: 25px;
@@ -862,7 +869,7 @@ h3.my-profesion
 }
 @media (max-width: 767px)
 {
-    .contact .contact-form .col-6
+    .contact .contact-form .col-6,
     .contact .contact-info-item,
     .portofolio .portofolio-item,
     .service .service-item,
